@@ -1,0 +1,35 @@
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\Vitaliy\Desktop\Diplom\Diplom\obj\Debug\Diplom.CheckGistogramm.resources
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.CheckGistogramm.resources
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.MDIParent1.resources
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.pdb
+C:\Users\Виталя\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Виталя\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Виталя\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Виталя\Desktop\Diplom\Diplom\obj\Debug\Diplom.GetPB.resources
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.csprojAssemblyReference.cache
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.CheckGistogramm.resources
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.GetPB.resources
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.MDIParent1.resources
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\Виталя\Desktop\C# проекты\Diplom\Diplom\obj\Debug\Diplom.pdb
